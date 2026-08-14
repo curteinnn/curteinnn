@@ -1,3 +1,1 @@
-<div align="center">
-  <img src="./assets/profile.svg" width="100">
-</div>
+![Prototype](./assets/prototype.gif)
