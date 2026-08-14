@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello world! , I'm Aldry 👋
 
-<!--
-**curteinnn/curteinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer
 
-Here are some ideas to get you started:
+I'm a Informatics Engineering student who enjoys building modern and interactive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- GSAP
+- Vite
+- MySQL
+
+### Currently Building
+
+### Let's Connect
