@@ -15,4 +15,12 @@ hey, i'm aldry 👋<br><br>i'm an informatics engineering student focused on fro
 ---
 [![](https://komarev.com/ghpvc/?username=curteinnn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph.svg">
+</picture>
+
+
