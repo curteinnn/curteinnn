@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey, i'm aldry 👋<br><br>i'm an informatics engineering student focused on frontend development.<br>i enjoy building interfaces, experimenting with animations, and learning by actually making things.<br><br>* 💻 focused on frontend development<br>* ⚛️ currently learning React<br>* 🎨 working with Tailwind CSS<br>* ✨ exploring GSAP, ScrollTrigger<br>* 🧩 interested in interactive UI & creative web experiences<br>* 🚀 building projects to improve my skills through practice<br>* 🔧 occasionally exploring backend & REST APIs<br>* 🎸 guitarist & music enthusiast outside of coding<br>
+hey, i'm aldry 👋<br><br>i'm an informatics engineering student focused on frontend development.<br>i enjoy building interfaces, experimenting with animations, and learning by actually making things.<br><br>* 💻 focused on frontend development<br>* ⚛️ currently learning React<br>* 🎨 working with Tailwind CSS<br>* ✨ exploring GSAP, ScrollTrigger<br>* 🧩 interested in interactive UI & creative web experiences<br>* 🚀 building projects to improve my skills through practice<br>* 🔧 occasionally exploring backend & REST APIs<br>* 🎸 music enthusiast outside of coding<br>
 
 
 ## 🌐 Socials:
