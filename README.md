@@ -17,10 +17,9 @@ hey, i'm aldry 👋<br><br>i'm an informatics engineering student focused on fro
 
 ## contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph.svg">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph-dark.svg"
+  alt="Pac-Man contribution graph"
+/>
 
 
