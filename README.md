@@ -44,15 +44,13 @@ i enjoy building interfaces, experimenting with animations, and learning by actu
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=curteinnn&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=curteinnn&label=Profile+Views&color=blueviolet&style=flat-square)
-
-
 ## contributions
 
 <img
   src="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph-dark.svg"
   alt="Pac-Man contribution graph"
 />
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=curteinnn&label=Profile+Views&color=blueviolet&style=flat-square)
