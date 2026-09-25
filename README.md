@@ -44,7 +44,7 @@ i enjoy building interfaces, experimenting with animations, and learning by actu
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=curteinnn&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## contributions
+# 💻 Contributions
 
 <img
   src="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph-dark.svg"
