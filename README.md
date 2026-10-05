@@ -1,27 +1,27 @@
-# 💫 About Me:
+# About Me:
 
-hey, i'm aldry 👋<br><br>
+Hey, i'm Aldry <br><br>
 
-i'm an informatics engineering student focused on frontend development.<br>
+I'm an informatics engineering student focused on frontend development.<br>
 i enjoy building interfaces, experimenting with animations, and learning by actually making things.<br><br>
 
-* 💻 focused on frontend development
-* ⚛️ currently learning React
-* 🎨 working with Tailwind CSS
-* ✨ exploring GSAP, ScrollTrigger
-* 🧩 interested in interactive UI & creative web experiences
-* 🚀 building projects to improve my skills through practice
-* 🔧 occasionally exploring backend & REST APIs
-* 🎸 music enthusiast outside of coding
+* focused on frontend development
+* currently learning React
+* working with Tailwind CSS
+* exploring GSAP, ScrollTrigger
+* interested in interactive UI & creative web experience
+* building projects to improve my skills through practice
+* occasionally exploring backend & REST APIs
+* music enthusiast outside of coding
 
 
-## 🌐 Socials:
+## Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aldrydnrn)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aldrydianreno212@gmail.com)
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,15 +36,15 @@ i enjoy building interfaces, experimenting with animations, and learning by actu
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-# 📊 GitHub Stats:
+#ContributionsContributionsGitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=curteinnn&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=curteinnn&theme=ambient_gradient&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=curteinnn&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=curteinnn&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private="httpsmpact)
 
-# 💻 Contributions
+# Contributions
 
 <img
   src="https://raw.githubusercontent.com/curteinnn/curteinnn/output/pacman-contribution-graph-dark.svg"
